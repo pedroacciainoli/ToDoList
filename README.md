@@ -14,5 +14,8 @@
 - [x] Marcar elemento na lista
 - [ ] Persistir elemento no navegador
 
+ ### Preview
+ 
+ https://pedroacciainoli.github.io/ToDoList/
 
 
